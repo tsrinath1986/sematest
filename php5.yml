@@ -1,5 +1,5 @@
 ---
-- hosts: node
+- hosts: 192.168.204.130
   sudo: yes
   
   tasks:
